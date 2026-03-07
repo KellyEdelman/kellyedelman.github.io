@@ -7,8 +7,7 @@
 </head>
  
 <body>
- 
-<div>
+ <div>
 <h2><b>Kelly Edelman</b></h2>
 <h3>PO Box 73</h3>
 <h3>Mission, KS 66201</h3>
