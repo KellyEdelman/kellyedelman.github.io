@@ -28,7 +28,50 @@ insurance one-on-one, as well as through group presentations
 </p>
  
 </div>
-<div><h4><b> Skills </b></h4>
+<div><h4><b><center> CORE COMPETENCIES </center></b></h4>
+
+ <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th>Strength</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Succinct Communicator</td>
+    <td>Delivers clear, concise messaging and simplifies complex ideas.</td>
+  </tr>
+  <tr>
+    <td>Adaptability & Versatility</td>
+    <td>Thrives in dynamic environments and adjusts quickly to shifting priorities.</td>
+  </tr>
+  <tr>
+    <td>Strategic Thinker</td>
+    <td>Identifies long‑term opportunities and aligns actions with organizational goals.</td>
+  </tr>
+  <tr>
+    <td>Project Planning Expertise</td>
+    <td>Skilled in structuring timelines, coordinating resources, and driving execution.</td>
+  </tr>
+  <tr>
+    <td>Attentive Listener</td>
+    <td>Builds trust through active listening and thoughtful engagement.</td>
+  </tr>
+  <tr>
+    <td>Recognized Team Leader</td>
+    <td>Inspires teams through clarity, accountability, and supportive leadership.</td>
+  </tr>
+  <tr>
+    <td>Business Development Specialist</td>
+    <td>Identifies growth opportunities and nurtures strategic partnerships.</td>
+  </tr>
+  <tr>
+    <td>Solutions Oriented</td>
+    <td>Approaches challenges with creativity and a focus on outcomes.</td>
+  </tr>
+  <tr>
+    <td>Research Analysis</td>
+    <td>Conducts thorough investigations and synthesizes data into actionable insights.</td>
+  </tr>
+</table>
   <h4>
    <li>Communications,		Sales & Marketing,		Organization,		Negotiations</li>
    <li>Customer Service,		Analytical & Planning,		Lead Generation,		Attention to Details</li>
