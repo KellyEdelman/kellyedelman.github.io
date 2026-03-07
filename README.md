@@ -36,6 +36,7 @@ insurance one-on-one, as well as through group presentations
     <th>Description</th>
   </tr>
   <tr>
+   <ul>
     <td>Succinct Communicator</td>
     <td>Delivers clear, concise messaging and simplifies complex ideas.</td>
   </tr>
@@ -71,6 +72,7 @@ insurance one-on-one, as well as through group presentations
     <td>Research Analysis</td>
     <td>Conducts thorough investigations and synthesizes data into actionable insights.</td>
   </tr>
+   </ul>
 </table>
   <h4>
    <li>Communications,		Sales & Marketing,		Organization,		Negotiations</li>
