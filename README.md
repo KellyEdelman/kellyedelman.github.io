@@ -6,7 +6,9 @@
 
 <body>
 <div>
- <title>My Prime Academy Application Submission</title></div>
+ <title>Kelly Edelman Resume</title>
+</div>
+ 
 <div>
 <h2><b>Kelly Edelman</b></h2>
 <h3>220 West 2nd St #2307</h3>
