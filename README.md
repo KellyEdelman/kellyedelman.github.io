@@ -11,19 +11,22 @@
  
 <div>
 <h2><b>Kelly Edelman</b></h2>
-<h3>220 West 2nd St #2307</h3>
-<h3>Kansas City, MO 64105</h3>
-<h3>kelly.edelman@gmx.com</h3>
+<h3>PO Box 73</h3>
+<h3>Mission, KS 66201</h3>
+<h3>kellyedelman@outlook.com</h3>
  <h3>816-456-3434</h3> 
 </div>
  </div>
  </div>
 <div>
-<h4><b>Summary</b></h4>
+<h4><b>Executive Summary</b></h4>
 <p>
-  
-  <h4>Experienced sales professional with a bachelor’s degree in communications and a passion for helping people. Organized, personable, and action-oriented with strong communication skills</h4>
-  </p>
+Action-oriented self-starter with a diverse portfolio of experience including Aerospace, Real Estate, and Financial Services. Skilled in
+resolving escalated issues, strengthening team communications, and fulfilling complex projects. Inquisitive, detail-oriented, dedicated to
+self-improvement through ongoing education and self-study. Enthusiastic presenter of detailed products such as Medicare and life
+insurance one-on-one, as well as through group presentations
+</p>
+ 
 </div>
 <div><h4><b> Skills </b></h4>
   <h4>
