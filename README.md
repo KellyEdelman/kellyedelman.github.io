@@ -3,11 +3,9 @@
 <head>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 <meta content="utf-8" http-equiv="encoding">
+ <title>Kelly Edelman Resume</title>
 
 <body>
-<div>
- <title>Kelly Edelman Resume</title>
-</div>
  
 <div>
 <h2><b>Kelly Edelman</b></h2>
