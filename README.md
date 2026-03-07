@@ -4,7 +4,8 @@
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 <meta content="utf-8" http-equiv="encoding">
  <title>Kelly Edelman Resume</title>
-
+</head>
+ 
 <body>
  
 <div>
@@ -14,15 +15,14 @@
 <h3>kellyedelman@outlook.com</h3>
  <h3>816-456-3434</h3> 
 </div>
- </div>
- </div>
+
 <div>
-<h4><b>Executive Summary</b></h4>
+<h4><b>EXECUTIVE SUMMARY </b></h4>
 <p>
 Action-oriented self-starter with a diverse portfolio of experience including Aerospace, Real Estate, and Financial Services. Skilled in
 resolving escalated issues, strengthening team communications, and fulfilling complex projects. Inquisitive, detail-oriented, dedicated to
 self-improvement through ongoing education and self-study. Enthusiastic presenter of detailed products such as Medicare and life
-insurance one-on-one, as well as through group presentations
+insurance one-on-one, as well as through group presentations.
 </p>
  
 </div>
@@ -77,12 +77,26 @@ insurance one-on-one, as well as through group presentations
    <li>Customer Service,		Analytical & Planning,		Lead Generation,		Attention to Details</li>
    <li>Microsoft Office,		Time Management,		Problem Solving,		Administrative</li></h4> 
 </div>
+
 <div>
-<div>
- <h4><b>Highlights of Experience</b></h4>
+ <h4><b> PROFESSIONAL EXPERIENCE </b></h4>
 </div>
 <div class"block-content">
-<ul>
+<h4>REALTOR</h4>
+<h3>Platinum Realty LLC</h3>
+<p>2017 <b>TO</b> Present </p>
+ 
+<p>
+Licensed Realtor in KS and MO for nine years. Specializing in locating flip properties for investors. Preview distressed
+properties, prepare after-repair-value reports, comparative market analysis reports, and scope-of-work spreadsheets
+required to determine profit margins. Average profit margins have ranged between 30 – 40%. Prepare rehabbed homes to
+list and sell on MLS. Experienced assisting first time home buyers and educating them in steps to purchase their first home.
+Assist buyers with getting correct financing and pre-approvals to match purchase goals. Participated in investment groups,
+and seminars. Created connections with hard money lenders, contractors, and title companies. Business development and
+lead generation through networking, cold calling, and door knocking.
+</p>
+
+ 
 <li>Generated weekly leads by door knocking and cold calling that resulted in over 35 real estate sales with a total volume of approximately $4 Mil over a two year period</li>
 <li>Worked with over 20 different investors in finding and analyzing flip properties that generated an average of 45%+ profit margins on resale of distressed properties.</li>
 <li>Originated, processed, and closed over 50 residential loans, self generated leads, as well as inbound company leads. Handled approximately 50 company leads per month, conversion rate around 20%. </li>
