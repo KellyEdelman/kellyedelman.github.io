@@ -3,9 +3,7 @@
 This repository contains my web-based résumé built with HTML and CSS.
 
 ## 🔗 Live Resume
-View it here: index.html
-
-)
+View it here: https://kellyedelman.github.io
 
 ## 📁 About This Project
 - `index.html` contains the full résumé content.
